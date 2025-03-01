@@ -1,0 +1,10 @@
+/Users/kieranwilliams/Code/Personal/solana/wsos-bank/target/sbf-solana-solana/release/deps/libthiserror-da4dde3c2c7c3769.rmeta: /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/kieranwilliams/Code/Personal/solana/wsos-bank/target/sbf-solana-solana/release/deps/libthiserror-da4dde3c2c7c3769.rlib: /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/kieranwilliams/Code/Personal/solana/wsos-bank/target/sbf-solana-solana/release/deps/thiserror-da4dde3c2c7c3769.d: /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs /Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs
+
+/Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/lib.rs:
+/Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/aserror.rs:
+/Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/display.rs:
+/Users/kieranwilliams/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.59/src/provide.rs:
